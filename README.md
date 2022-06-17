@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saiefsmairi web Development Engineer Student at ESPRIT
-- 👀 I'm a full-stack web developer i'a
+- 👀 I'm a full-stack web developer 
 - 🌱 I’m currently learning .net
 - 📫 You can reach me at linkedin or instagram : @Saif Smairi
 https://www.linkedin.com/in/saif-smairi-563425159/
